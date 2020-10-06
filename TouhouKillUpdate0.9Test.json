@@ -9,23 +9,26 @@
 		},
 		"From0.9": {
 			"Win": {
-				"UpdateScript": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20170603/1.vbs",
-				"UpdatePack": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20181111/TouhouSatsu[v0.8]1212to1111.7z",
+				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
+				"UpdatePack": "https://www.touhousatsu.rocks/test/testtxt.7z",
 				"UpdatePackHash": {
-					"MD5": "10d636437ff3ccd2b5689b35087a7b98",
-					"SHA1": "9a7d0809274af988b86eb10c28f6204bacf2276f"
-				}
-			},
-			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
-			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
-		},
-		"From20190203": {
-			"Win": {
-				"UpdateScript": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20170603/1.vbs",
-				"UpdatePack": "https://qcloud.coding.net/api/user/Fsu0413/project/TouhouSatsu/git/releases/attachments/download/19981",
-				"UpdatePackHash": {
-					"MD5": "10d636437ff3ccd2b5689b35087a7b98",
-					"SHA1": "9a7d0809274af988b86eb10c28f6204bacf2276f"
+					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
+					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
+				},
+				"UpdatePackB": "https://www.touhousatsu.rocks/test/testtxt.7z",
+				"UpdatePackHashB": {
+					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
+					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
+				},
+				"UpdatePackH": "https://www.touhousatsu.rocks/test/testtxt.7z",
+				"UpdatePackHashH": {
+					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
+					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
+				},
+				"UpdatePackBH": "https://www.touhousatsu.rocks/test/testtxt.7z",
+				"UpdatePackHashBH": {
+					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
+					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
 				}
 			},
 			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
