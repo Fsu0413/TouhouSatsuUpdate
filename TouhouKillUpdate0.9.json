@@ -1,0 +1,200 @@
+{
+	"Global": {
+		"LatestVersion": "20200926",
+		"LatestVersionNumber": "0.9.8",
+		"FullPack": {
+			"Win": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20181212": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "f68fbf0dad394ec6888f92d5a7f49351",
+					"SHA1": "6490e40551ecbcce09b745b748810ad65b64743b"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "f68fbf0dad394ec6888f92d5a7f49351",
+					"SHA1": "6490e40551ecbcce09b745b748810ad65b64743b"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926S.7z",
+				"UpdatePackHashH": {
+					"MD5": "680b1376b0f6f2b9e53b096eebcf4fdf",
+					"SHA1": "1dc71e157f2d3739463c3d6a3dc3176e4284ecbc"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926S.7z",
+				"UpdatePackHashBH": {
+					"MD5": "680b1376b0f6f2b9e53b096eebcf4fdf",
+					"SHA1": "1dc71e157f2d3739463c3d6a3dc3176e4284ecbc"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20181225": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "f68fbf0dad394ec6888f92d5a7f49351",
+					"SHA1": "6490e40551ecbcce09b745b748810ad65b64743b"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "f68fbf0dad394ec6888f92d5a7f49351",
+					"SHA1": "6490e40551ecbcce09b745b748810ad65b64743b"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926S.7z",
+				"UpdatePackHashH": {
+					"MD5": "680b1376b0f6f2b9e53b096eebcf4fdf",
+					"SHA1": "1dc71e157f2d3739463c3d6a3dc3176e4284ecbc"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D12121225to0926S.7z",
+				"UpdatePackHashBH": {
+					"MD5": "680b1376b0f6f2b9e53b096eebcf4fdf",
+					"SHA1": "1dc71e157f2d3739463c3d6a3dc3176e4284ecbc"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20190203": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0203to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "3aa297f19549bce44ed8251668faf16a",
+					"SHA1": "e3bda8a1e84370de8f0c5276f02491e11eff58d9"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0203to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "3aa297f19549bce44ed8251668faf16a",
+					"SHA1": "e3bda8a1e84370de8f0c5276f02491e11eff58d9"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0203to0926.7z",
+				"UpdatePackHashH": {
+					"MD5": "3aa297f19549bce44ed8251668faf16a",
+					"SHA1": "e3bda8a1e84370de8f0c5276f02491e11eff58d9"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0203to0926.7z",
+				"UpdatePackHashBH": {
+					"MD5": "3aa297f19549bce44ed8251668faf16a",
+					"SHA1": "e3bda8a1e84370de8f0c5276f02491e11eff58d9"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20190830": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0830to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "7a30ca8ede84dd1149d085e75e79c9e0",
+					"SHA1": "8a81f0d8738af797cfc9ab2b076cd86b95fda08f"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0830to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "7a30ca8ede84dd1149d085e75e79c9e0",
+					"SHA1": "8a81f0d8738af797cfc9ab2b076cd86b95fda08f"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0830to0926.7z",
+				"UpdatePackHashH": {
+					"MD5": "7a30ca8ede84dd1149d085e75e79c9e0",
+					"SHA1": "8a81f0d8738af797cfc9ab2b076cd86b95fda08f"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0830to0926.7z",
+				"UpdatePackHashBH": {
+					"MD5": "7a30ca8ede84dd1149d085e75e79c9e0",
+					"SHA1": "8a81f0d8738af797cfc9ab2b076cd86b95fda08f"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20200315": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0315to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "ad5e995da93d8132b56dc2d443b4c12f",
+					"SHA1": "caa01594a787497a5eaa64fd159dc02f3ba2c7ac"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0315to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "ad5e995da93d8132b56dc2d443b4c12f",
+					"SHA1": "caa01594a787497a5eaa64fd159dc02f3ba2c7ac"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0315to0926.7z",
+				"UpdatePackHashH": {
+					"MD5": "ad5e995da93d8132b56dc2d443b4c12f",
+					"SHA1": "caa01594a787497a5eaa64fd159dc02f3ba2c7ac"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0315to0926.7z",
+				"UpdatePackHashBH": {
+					"MD5": "ad5e995da93d8132b56dc2d443b4c12f",
+					"SHA1": "caa01594a787497a5eaa64fd159dc02f3ba2c7ac"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20200331": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/2.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0331to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "8c432b3ccd915b522e7faf81b2442335",
+					"SHA1": "435ecd2351f50aa27a0276c010fd86d9e71c4377"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0331to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "8c432b3ccd915b522e7faf81b2442335",
+					"SHA1": "435ecd2351f50aa27a0276c010fd86d9e71c4377"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0331to0926.7z",
+				"UpdatePackHashH": {
+					"MD5": "8c432b3ccd915b522e7faf81b2442335",
+					"SHA1": "435ecd2351f50aa27a0276c010fd86d9e71c4377"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0331to0926.7z",
+				"UpdatePackHashBH": {
+					"MD5": "8c432b3ccd915b522e7faf81b2442335",
+					"SHA1": "435ecd2351f50aa27a0276c010fd86d9e71c4377"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		},
+		"From20200913": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0913to0926.7z",
+				"UpdatePackHash": {
+					"MD5": "1616131dbc01a558187f820e2b8adf89",
+					"SHA1": "5eb5e4f5a04cc5c99c17a1ceb31ff266b2d04809"
+				},
+				"UpdatePackB": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0913to0926.7z",
+				"UpdatePackHashB": {
+					"MD5": "1616131dbc01a558187f820e2b8adf89",
+					"SHA1": "5eb5e4f5a04cc5c99c17a1ceb31ff266b2d04809"
+				},
+				"UpdatePackH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0913to0926.7z",
+				"UpdatePackHashH": {
+					"MD5": "1616131dbc01a558187f820e2b8adf89",
+					"SHA1": "5eb5e4f5a04cc5c99c17a1ceb31ff266b2d04809"
+				},
+				"UpdatePackBH": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20200926/TouhouSatsu%5Bv0.9%5D0913to0926.7z",
+				"UpdatePackHashBH": {
+					"MD5": "1616131dbc01a558187f820e2b8adf89",
+					"SHA1": "5eb5e4f5a04cc5c99c17a1ceb31ff266b2d04809"
+				}
+			},
+			"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+			"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+		}
+	}
+}

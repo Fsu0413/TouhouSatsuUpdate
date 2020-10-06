@@ -1,0 +1,35 @@
+{
+	"Global": {
+		"LatestVersion": "2019999999999",
+		"LatestVersionNumber": "0.9.999999",
+		"FullPack": {
+			"Win": "http://pan.baidu.com/s/1nvwcYA9",
+			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
+			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
+		},
+		"From0.9": {
+			"Win": {
+				"UpdateScript": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20170603/1.vbs",
+				"UpdatePack": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20181111/TouhouSatsu[v0.8]1212to1111.7z",
+				"UpdatePackHash": {
+					"MD5": "10d636437ff3ccd2b5689b35087a7b98",
+					"SHA1": "9a7d0809274af988b86eb10c28f6204bacf2276f"
+				}
+			},
+			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
+			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
+		},
+		"From20190203": {
+			"Win": {
+				"UpdateScript": "https://fsu0413.coding.me/TouhouSatsuUpdate/win/20170603/1.vbs",
+				"UpdatePack": "https://qcloud.coding.net/api/user/Fsu0413/project/TouhouSatsu/git/releases/attachments/download/19981",
+				"UpdatePackHash": {
+					"MD5": "10d636437ff3ccd2b5689b35087a7b98",
+					"SHA1": "9a7d0809274af988b86eb10c28f6204bacf2276f"
+				}
+			},
+			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
+			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
+		}
+	}
+}

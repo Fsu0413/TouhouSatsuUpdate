@@ -1,0 +1,64 @@
+{
+	"LatestVersion": "20181111",
+	"LatestVersionNumber": "0.8.12",
+	"LatestVersion09": "20181212",
+	"LatestVersionNumber09": "0.9.0",
+	"VersionTo09": "20181111",
+	"FullPack": {
+		"Win": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From0.8": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20170814": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20171125": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20180210": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20180211": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20180415": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20180903": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20181012": {
+		"Win": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Mac": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "http://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	},
+	"From20181111": {
+		"Win": {
+			"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20181212/1.vbs",
+			"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20181212/TouhouSatsu[v0.9]1111to1212.7z",
+			"UpdatePackHash": {
+				"MD5": "69B93631F0D077EE0A0929EA0689170C",
+				"SHA1": "73C981FF1AEFF8B941AA1BF1B6BF2339DA5800DE"
+			}
+		},
+		"Mac": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA",
+		"Oth": "https://pan.baidu.com/s/1pbgUsTLGgcwFngEyS5HbIA"
+	}
+}
