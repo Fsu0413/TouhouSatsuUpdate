@@ -2,12 +2,13 @@
 	"Global": {
 		"LatestVersion": "20209999",
 		"LatestVersionNumber": "0.9.99",
+		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/master/changelog_v0.9.8.txt",
 		"FullPack": {
 			"Win": "http://pan.baidu.com/s/1nvwcYA9",
 			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
 			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
 		},
-		"From20200926": {
+		"From0.9.8": {
 			"Win": {
 				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
 				"UpdatePack": "https://www.touhousatsu.rocks/test/testtxt.7z",
