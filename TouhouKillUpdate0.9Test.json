@@ -23,7 +23,7 @@
 	},
 	"BGM": {
 		"LatestVersion": "20209999",
-		"LatestVersionNumber": "0.9.99",
+		"LatestVersionNumber": "0.9.2",
 		"FullPack": {
 			"Win": {
 				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
@@ -39,7 +39,7 @@
 	},
 	"HeroSkin": {
 		"LatestVersion": "20209999",
-		"LatestVersionNumber": "0.9.99",
+		"LatestVersionNumber": "0.9.2",
 		"FullPack": {
 			"Win": {
 				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
