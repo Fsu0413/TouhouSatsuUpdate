@@ -24,19 +24,13 @@
 	"BGM": {
 		"LatestVersion": "20209999",
 		"LatestVersionNumber": "0.9.99",
-		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/master/changelog_v0.9.8.txt",
 		"FullPack": {
-			"Win": "http://pan.baidu.com/s/1nvwcYA9",
-			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
-			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
-		},
-		"From0.9.8": {
 			"Win": {
 				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
-				"UpdatePack": "https://www.touhousatsu.rocks/test/testtxt.7z",
+				"UpdatePack": "https://www.touhousatsu.rocks/test/audio.7z",
 				"UpdatePackHash": {
-					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
-					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
+					"MD5": "317711a98bddce2cdbb6cb19b957f803",
+					"SHA1": "fa06862f0f5e781e71c4dbc13fac1e9783bfa7af"
 				}
 			},
 			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
@@ -46,19 +40,13 @@
 	"HeroSkin": {
 		"LatestVersion": "20209999",
 		"LatestVersionNumber": "0.9.99",
-		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/master/changelog_v0.9.8.txt",
 		"FullPack": {
-			"Win": "http://pan.baidu.com/s/1nvwcYA9",
-			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
-			"Oth": "http://pan.baidu.com/s/1nvwcYA9"
-		},
-		"From0.9.8": {
 			"Win": {
 				"UpdateScript": "https://www.touhousatsu.rocks/test/1.vbs",
-				"UpdatePack": "https://www.touhousatsu.rocks/test/testtxt.7z",
+				"UpdatePack": "https://www.touhousatsu.rocks/test/image.7z",
 				"UpdatePackHash": {
-					"MD5": "eb2224218e79e32a8da4c1b95411dc13",
-					"SHA1": "0484275b82ae5f2a94385e115f1ea19ea780c7ca"
+					"MD5": "79938d9d0246a8323794ea76ce40ed02",
+					"SHA1": "c63c2dc6cb489e04797fd3f433240bf1492ea58c"
 				}
 			},
 			"Mac": "http://pan.baidu.com/s/1nvwcYA9",
