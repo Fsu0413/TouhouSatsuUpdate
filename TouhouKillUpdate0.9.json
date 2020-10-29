@@ -225,6 +225,7 @@
 		}
 	},
 	"BGM": {
+		"LatestVersion": "20190203",
 		"LatestVersionNumber": "0.9.2",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks/#!heroskinAndBgm.md",
@@ -233,6 +234,7 @@
 		}
 	},
 	"HeroSkin": {
+		"LatestVersion": "20190203",
 		"LatestVersionNumber": "0.9.2",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks/#!heroskinAndBgm.md",
