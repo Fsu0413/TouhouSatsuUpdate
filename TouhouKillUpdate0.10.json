@@ -1,9 +1,22 @@
 {
 	"Base": {
-		"LatestVersion": "20201212",
-		"LatestVersionNumber": "0.10.0",
+		"LatestVersion": "20210221",
+		"LatestVersionNumber": "0.10.1",
+		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/4b3b8949e3e09fc044138d89b0c4e1bce7ae90f5/documentation/changelog_v0.9.9.txt",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.0": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20210221/TouhouSatsu%5Bv0.10%5D20201212to20210221.7z",
+				"UpdatePackHash": {
+					"MD5": "78d873cdc598a08b7958bcf7627c6137",
+					"SHA1": "4b55c0b4d87c2604084085000a3ac71a617447b3"
+				}
+			},
 			"Mac": "https://www.touhousatsu.rocks",
 			"Oth": "https://www.touhousatsu.rocks"
 		}
@@ -18,20 +31,20 @@
 		}
 	},
 	"HeroSkin": {
-		"LatestVersion": "20201212",
-		"LatestVersionNumber": "0.10.0",
+		"LatestVersion": "20210221",
+		"LatestVersionNumber": "0.10.1",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks/#!heroskinAndBgm.md",
 			"Mac": "https://www.touhousatsu.rocks",
 			"Oth": "https://www.touhousatsu.rocks"
 		},
-		"From0.9.2": {
+		"From0.10.0": {
 			"Win": {
 				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
-				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20201212/TouhouSatsu%5Bv0.10%5D1029to1212S.7z",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20210221/TouhouSatsu%5Bv0.10%5D20201212to20210221S.7z",
 				"UpdatePackHash": {
-					"MD5": "3acf0ea5cc3842b3dfa4593855075ba5",
-					"SHA1": "1007beeb7636b1428fb3663270cc8b61807c13df"
+					"MD5": "bfd120b05d06b689e8df4945136b79c7",
+					"SHA1": "88436d08cc625f58581ae3bdde345574a7c31cc1"
 				}
 			},
 			"Mac": "https://www.touhousatsu.rocks",
