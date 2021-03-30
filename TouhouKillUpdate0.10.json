@@ -1,20 +1,32 @@
 {
 	"Base": {
-		"LatestVersion": "20210221",
-		"LatestVersionNumber": "0.10.1",
-		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/4b3b8949e3e09fc044138d89b0c4e1bce7ae90f5/documentation/changelog_v0.9.9.txt",
+		"LatestVersion": "20210331",
+		"LatestVersionNumber": "0.10.2",
+		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/b10bf2d203a347b0246324c223ec49587de33a2c/documentation/changelog_v0.9.9.txt",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.1": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20210331/TouhouSatsu%5Bv0.10%5D20210221to20210331.7z",
+				"UpdatePackHash": {
+					"MD5": "7b7205120c2d44d2cada9ab715031ff0",
+					"SHA1": "af8aee895d24650ebe794739bdb498ae757d031b"
+				}
+			},
 			"Mac": "https://www.touhousatsu.rocks",
 			"Oth": "https://www.touhousatsu.rocks"
 		},
 		"From0.10.0": {
 			"Win": {
 				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
-				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20210221/TouhouSatsu%5Bv0.10%5D20201212to20210221.7z",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20210331/TouhouSatsu%5Bv0.10%5D20201212to20210331.7z",
 				"UpdatePackHash": {
-					"MD5": "78d873cdc598a08b7958bcf7627c6137",
-					"SHA1": "4b55c0b4d87c2604084085000a3ac71a617447b3"
+					"MD5": "8d7dd0e8c1e3f28da1c70c44ea5755ee",
+					"SHA1": "1e19b013c51586a0f47a1c4ce3810bf042d33db7"
 				}
 			},
 			"Mac": "https://www.touhousatsu.rocks",
