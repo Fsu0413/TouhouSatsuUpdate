@@ -1,10 +1,22 @@
 {
 	"Base": {
-		"LatestVersion": "20220328",
-		"LatestVersionNumber": "0.10.5",
-		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/365a92ebeaaba33392cd6f715b1c8ffaa5c15e13/documentation/changelog_v0.10.2.txt",
+		"LatestVersion": "20220401",
+		"LatestVersionNumber": "0.10.6",
+		"ChangeLog": "https://www.bilibili.com/video/BV1GJ411x7h7",
 		"FullPack": {
 			"Win": "https://www.touhousatsu.rocks",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.5": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/10402202/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220328/TouhouSatsu%5Bv0.10%5D20220327to20220328.7z",
+				"UpdatePackHash": {
+					"MD5": "8b8af0c471cd3a232ad6f4c8885ac72f",
+					"SHA1": "0906c2a1961af51841c29875571327b131bb359a"
+				}
+			},
 			"Mac": "https://www.touhousatsu.rocks",
 			"Oth": "https://www.touhousatsu.rocks"
 		},
