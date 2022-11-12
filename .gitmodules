@@ -1,0 +1,4 @@
+[submodule "themes/bearblog"]
+	path = themes/bearblog
+	url = ../../janraasch/hugo-bearblog
+	branch = master

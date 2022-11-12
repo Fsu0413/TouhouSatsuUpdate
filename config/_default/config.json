@@ -1,0 +1,16 @@
+{
+	"baseURL": "http://example.org/",
+	"languageCode": "zh-cn",
+	"title": "星野梦美东方杀下载站",
+	"theme": "bearblog",
+	"Params": {
+		"hideMadeWithLine": true
+	},
+	"markup": {
+		"goldmark": {
+			"renderer": {
+				"unsafe": true
+			}
+		}
+	}
+}
