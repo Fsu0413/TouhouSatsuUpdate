@@ -1,4 +1,3 @@
-[submodule "themes/bearblog"]
-	path = themes/bearblog
-	url = ../../janraasch/hugo-bearblog
-	branch = master
+[submodule "themes/accessible-minimalism"]
+	path = themes/accessible-minimalism
+	url = ../../leonstafford/accessible-minimalism-hugo-theme

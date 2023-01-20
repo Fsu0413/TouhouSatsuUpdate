@@ -43,6 +43,6 @@ jobs:
           mkdir $HOME/.ssh && ssh-keyscan -t rsa github.com > $HOME/.ssh/known_hosts
           echo "${PRIVATE_KEY}" > $HOME/.ssh/id_rsa
           chmod 600 $HOME/.ssh/id_rsa
-          git -C public push 'git@github.com:Fsu0413/QtCompile.git' HEAD:refs/heads/gh-pages
+          git -C public push 'git@github.com:Fsu0413/TouhouSatsuUpdate.git' HEAD:refs/heads/gh-pages
 
           

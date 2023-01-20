@@ -2,7 +2,7 @@
 	"baseURL": "http://example.org/",
 	"languageCode": "zh-cn",
 	"title": "星野梦美东方杀下载站",
-	"theme": "bearblog",
+	"theme": "accessible-minimalism",
 	"Params": {
 		"hideMadeWithLine": true
 	},
