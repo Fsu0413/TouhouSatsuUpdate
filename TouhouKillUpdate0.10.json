@@ -1,0 +1,129 @@
+{
+	"Base": {
+		"LatestVersion": "20220916",
+		"LatestVersionNumber": "0.10.7",
+		"PreviousVersion": "20220328",
+		"PreviousVersionNumber": "0.10.5",
+		"VersionSeries": "0.10",
+		"ChangeLog": "https://github.com/lwtmusou/touhoukill/blob/e94ae92b786f7a5c09be7df5a3b13efc61342395/documentation/changelog_v0.10.2.txt",
+		"Installer": {
+			"Win": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu.exe"
+		},
+		"Extractor": {
+			"Win": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10.7%5D0916-full.7z"
+		},
+		"FullPack": {
+			"Win": "https://www.touhousatsu.rocks",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.5": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20220328to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "eb3b3cd07ea74a9398e714c40d172a39",
+					"SHA1": "704cbcb6d8e1d8ada34f01f64ae5913aa1060c26"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.4": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20220328to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "eb3b3cd07ea74a9398e714c40d172a39",
+					"SHA1": "704cbcb6d8e1d8ada34f01f64ae5913aa1060c26"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.3": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20211006to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "50dd163dd2733a0054d119a445cfbf30",
+					"SHA1": "ede3a0722abb314b1751b1f25bd2562cf75cdc2a"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.2": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20201212to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "51a6e48a33fe6d628a3c353f27eb6e20",
+					"SHA1": "37222d53da27a6b6a0b6260f9345b26bb73bf828"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.1": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20201212to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "51a6e48a33fe6d628a3c353f27eb6e20",
+					"SHA1": "37222d53da27a6b6a0b6260f9345b26bb73bf828"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.0": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220916/TouhouSatsu%5Bv0.10%5D20201212to20220916.7z",
+				"UpdatePackHash": {
+					"MD5": "51a6e48a33fe6d628a3c353f27eb6e20",
+					"SHA1": "37222d53da27a6b6a0b6260f9345b26bb73bf828"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		}
+	},
+	"BGM": {
+		"LatestVersion": "20190203",
+		"LatestVersionNumber": "0.9.2",
+		"Extractor": {
+			"Win": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20190203/bgm.7z"
+		},
+		"FullPack": {
+			"Win": "https://www.touhousatsu.rocks/#%E7%9A%AE%E8%82%A4%E4%B8%8Ebgm",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		}
+	},
+	"HeroSkin": {
+		"LatestVersion": "20220327",
+		"LatestVersionNumber": "0.10.4",
+		"Extractor": {
+			"Win": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220327/TouhouSatsu%5Bv0.10.4%5D0327-Skin.7z"
+		},
+		"FullPack": {
+			"Win": "https://www.touhousatsu.rocks/#%E7%9A%AE%E8%82%A4%E4%B8%8Ebgm",
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		},
+		"From0.10.2": {
+			"Win": {
+				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20170603/1.vbs",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20220327/TouhouSatsu%5Bv0.10%5D20210511to20220327S.7z",
+				"UpdatePackHash": {
+					"MD5": "ef531d09481710e7f35434a21c707086",
+					"SHA1": "14d5eb454d723cd6cef06c1f7ed463b1540cd362"
+				}
+			},
+			"Mac": "https://www.touhousatsu.rocks",
+			"Oth": "https://www.touhousatsu.rocks"
+		}
+	}
+}
