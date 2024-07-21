@@ -20,7 +20,7 @@
 		"From0.10.7": {
 			"Win": {
 				"UpdateScript": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20240721/2.vbs",
-				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20240721/TouhouSatsu%5Bv0.10%5D20211006to20240721.7z",
+				"UpdatePack": "https://touhousatsu-1251389155.cos.ap-shanghai.myqcloud.com/20240721/TouhouSatsu%5Bv0.10%5D20220916to20240721.7z",
 				"UpdatePackHash": {
 					"MD5": "8bff61bff0fc8dfc0550ce4350916d93",
 					"SHA1": "4e3e58a30dd5efe2a4fc8443093af0a1e1ff3a15"
